@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1366" height="2933" viewBox="0 0 1366 2933">
+  <defs>
+    <pattern id="pattern" preserveAspectRatio="none" width="100%" height="100%" viewBox="0 0 1125 750">
+      <image width="1125" height="750" xlink:href="../pexels-photo-1162251.jpeg"/>
+    </pattern>
+    <pattern id="pattern-2" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" viewBox="0 0 4000 3000">
+      <image width="4000" height="3000" xlink:href="../vv.jpg"/>
+    </pattern>
+    <pattern id="pattern-3" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" viewBox="0 0 5902 3935">
+      <image width="5902" height="3935" xlink:href="../pexels-piotr-twardowski-5332180.jpg"/>
+    </pattern>
+    <pattern id="pattern-4" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" viewBox="0 0 6720 4480">
+      <image width="6720" height="4480" xlink:href="../gold.jpg"/>
+    </pattern>
+    <pattern id="pattern-5" preserveAspectRatio="none" width="100%" height="100%" viewBox="0 0 820 1489">
+      <image width="820" height="1489" xlink:href="D:/symbole/facebook.png"/>
+    </pattern>
+    <clipPath id="clip-Web_1366_1">
+      <rect width="1366" height="2933"/>
+    </clipPath>
+  </defs>
+  <g id="Web_1366_1" data-name="Web 1366 – 1" clip-path="url(#clip-Web_1366_1)">
+    <rect width="1366" height="2933" fill="#fff"/>
+    <g id="Tracé_1" data-name="Tracé 1" transform="translate(0 769)">
+      <path d="M 1365.5 2171.705810546875 L 723.6986694335938 2171.705810546875 L 706.0526123046875 2171.705810546875 L 0.5 2171.705810546875 L 0.5 0.5000105500221252 L 1365.5 0.5000105500221252 L 1365.5 2171.705810546875 Z" stroke="none"/>
+      <path d="M 1 1 L 1 2171.205810546875 L 706.0526123046875 2171.205810546875 L 723.6986694335938 2171.205810546875 L 1365 2171.205810546875 L 1365 1 L 1 1 M 0 0 L 1366 0 L 1366 2172.205810546875 L 723.6986694335938 2172.205810546875 L 706.0526123046875 2172.205810546875 L 0 2172.205810546875 L 0 0 Z" stroke="none" fill="#707070"/>
+    </g>
+    <image id="tttt" width="1366" height="1024" transform="translate(0 -75)" xlink:href="../tttt.png"/>
+    <text id="THE_GLOBAL_CLIMATE_2023-2024" data-name="THE GLOBAL CLIMATE 
+       2023-2024" transform="translate(244 417)" fill="#707070" font-size="41" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">THE GLOBAL CLIMATE </tspan><tspan x="0" y="54" xml:space="preserve">       2023-2024</tspan></text>
+    <text id="About" transform="translate(166 107)" fill="#707070" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">About</tspan></text>
+    <text id="About-2" data-name="About" transform="translate(681 2688)" fill="#707070" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">About</tspan></text>
+    <text id="Explore" transform="translate(303 107)" fill="#707070" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Explore</tspan></text>
+    <text id="Explore-2" data-name="Explore" transform="translate(681 2715)" fill="#707070" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Explore</tspan></text>
+    <text id="Journal" transform="translate(448 107)" fill="#707070" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Journal</tspan></text>
+    <text id="Journal-2" data-name="Journal" transform="translate(681 2742)" fill="#707070" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Journal</tspan></text>
+    <text id="News_Events" data-name="News &amp; Events" transform="translate(591 107)" fill="#707070" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">News &amp; Events</tspan></text>
+    <text id="News_Events-2" data-name="News &amp; Events" transform="translate(681 2769)" fill="#707070" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">News &amp; Events</tspan></text>
+    <text id="CAUSES" transform="translate(602 940)" fill="#fff" font-size="35" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">CAUSES</tspan></text>
+    <text id="How_you_can_Help" data-name="How you can Help" transform="translate(533 1748)" fill="#fff" font-size="30" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">How you can Help</tspan></text>
+    <rect id="pexels-photo-1162251" width="413.5" height="276" transform="translate(218 995)" fill="url(#pattern)"/>
+    <text id="Stormes" transform="translate(348 1241)" fill="#fff" font-size="25" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Stormes</tspan></text>
+    <path id="Intersection_1" data-name="Intersection 1" d="M0,276V0H414V276Z" transform="translate(714 995)" fill="url(#pattern-2)"/>
+    <text id="Heat_Waves" data-name="Heat Waves" transform="translate(842 1241)" fill="#fff" font-size="25" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Heat Waves</tspan></text>
+    <path id="Intersection_2" data-name="Intersection 2" d="M0,290V0H415V290Z" transform="translate(218 1313)" fill="url(#pattern-3)"/>
+    <text id="Warming_Ocean" data-name="Warming Ocean" transform="translate(304 1561)" fill="#fff" font-size="25" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Warming Ocean</tspan></text>
+    <path id="Intersection_3" data-name="Intersection 3" d="M0,290V0H414V290Z" transform="translate(714 1313)" fill="url(#pattern-4)"/>
+    <text id="Melting_glaciers" data-name="Melting glaciers" transform="translate(819 1561)" fill="#fff" font-size="25" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Melting glaciers</tspan></text>
+    <text id="If_you_are_Interested_in_climate_change_" data-name="If you are Interested in climate change  " transform="translate(435 1812)" fill="#707070" font-size="27" font-family="SegoeUI-LightItalic, Segoe UI" font-weight="300" font-style="italic"><tspan x="0" y="0" xml:space="preserve">If you are Interested in climate change  </tspan></text>
+    <text id="Follow_this_rules" data-name="Follow this rules" transform="translate(566 1852)" fill="#707070" font-size="27" font-family="SegoeUI-LightItalic, Segoe UI" font-weight="300" font-style="italic"><tspan x="0" y="0">Follow this rules</tspan></text>
+    <g id="Ellipse_1" data-name="Ellipse 1" transform="translate(301 1996)" fill="none" stroke="#fff" stroke-width="1">
+      <circle cx="76" cy="76" r="76" stroke="none"/>
+      <circle cx="76" cy="76" r="75.5" fill="none"/>
+    </g>
+    <g id="Ellipse_3" data-name="Ellipse 3" transform="translate(620 1996)" fill="none" stroke="#fff" stroke-width="1">
+      <circle cx="76" cy="76" r="76" stroke="none"/>
+      <circle cx="76" cy="76" r="75.5" fill="none"/>
+    </g>
+    <g id="Ellipse_5" data-name="Ellipse 5" transform="translate(935 1996)" fill="none" stroke="#fff" stroke-width="1">
+      <circle cx="76" cy="76" r="76" stroke="none"/>
+      <circle cx="76" cy="76" r="75.5" fill="none"/>
+    </g>
+    <g id="Ellipse_2" data-name="Ellipse 2" transform="translate(323 2018)" fill="none" stroke="#fff" stroke-width="1">
+      <circle cx="54" cy="54" r="54" stroke="none"/>
+      <circle cx="54" cy="54" r="53.5" fill="none"/>
+    </g>
+    <g id="Ellipse_4" data-name="Ellipse 4" transform="translate(642 2018)" fill="none" stroke="#fff" stroke-width="1">
+      <circle cx="54" cy="54" r="54" stroke="none"/>
+      <circle cx="54" cy="54" r="53.5" fill="none"/>
+    </g>
+    <g id="Ellipse_6" data-name="Ellipse 6" transform="translate(957 2018)" fill="none" stroke="#fff" stroke-width="1">
+      <circle cx="54" cy="54" r="54" stroke="none"/>
+      <circle cx="54" cy="54" r="53.5" fill="none"/>
+    </g>
+    <circle id="Ellipse_7" data-name="Ellipse 7" cx="9" cy="9" r="9" transform="translate(414 2117)" fill="#068015"/>
+    <circle id="Ellipse_8" data-name="Ellipse 8" cx="9" cy="9" r="9" transform="translate(741 2117)" fill="#068015"/>
+    <circle id="Ellipse_10" data-name="Ellipse 10" cx="9" cy="9" r="9" transform="translate(1023 2112)" fill="#068015"/>
+    <circle id="Ellipse_11" data-name="Ellipse 11" cx="9" cy="9" r="9" transform="translate(1073 2094)" fill="#068015"/>
+    <circle id="Ellipse_12" data-name="Ellipse 12" cx="9" cy="9" r="9" transform="translate(970 1996)" fill="#068015"/>
+    <circle id="Ellipse_9" data-name="Ellipse 9" cx="9" cy="9" r="9" transform="translate(645 1996)" fill="#068015"/>
+    <text id="Save_Energy_at_home" data-name="Save Energy at home" transform="translate(303 2183)" fill="#707070" font-size="16" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Save Energy at home</tspan></text>
+    <text id="Our_electricity_and_heating_come_largely_from_coal_oil_and_gas._It_is_possible_to_reduce_your_energy_consumption_by_reducing_heating_and_air_conditioning_opting_for_LED_bulbs_and_low-consumption_electrical_appliances_washing_your_laundry_in_cold_water_o" data-name="Our electricity and heating come largely from coal, oil and gas. It is possible to reduce your energy consumption by reducing heating and air conditioning, opting for LED bulbs and low-consumption electrical appliances, washing your laundry in cold water o" transform="translate(218 2214)" fill="#707070" font-size="14" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="15">Our electricity and heating come largely from </tspan><tspan x="0" y="34">coal, oil and gas. It is possible to reduce your </tspan><tspan x="0" y="53">energy consumption by reducing heating and </tspan><tspan x="0" y="72">air conditioning, opting for LED bulbs and low-</tspan><tspan x="0" y="91">consumption electrical appliances, washing </tspan><tspan x="0" y="110">your laundry in cold water or hanging it to dry </tspan><tspan x="0" y="129">in the oven. instead of using a dryer.</tspan></text>
+    <text id="Getting_around_on_foot_by_bike_" data-name="Getting around on foot, by bike " transform="translate(600 2166)" fill="#707070" font-size="16" font-family="SegoeUI, Segoe UI"><tspan x="0" y="17">Getting around on foot, by bike </tspan></text>
+    <text id="All_over_the_world_roads_are_overloaded_with_vehicles_most_of_which_run_on_diesel_or_gasoline._Favoring_walking_or_cycling_instead_of_driving_reduces_greenhouse_gas_emissions_and_contributes_to_better_health_and_physical_fitness._For_long_distances_cons" data-name="All over the world, roads are overloaded with vehicles, most of which run on diesel or gasoline. Favoring walking or cycling instead of driving reduces greenhouse gas emissions and contributes to better health and physical fitness. For long distances, cons" transform="translate(577 2214)" fill="#707070" font-size="14" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="15">All over the world, roads are overloaded with </tspan><tspan x="0" y="34">vehicles, most of which run on diesel or </tspan><tspan x="0" y="53">gasoline. Favoring walking or cycling instead of </tspan><tspan x="0" y="72">driving reduces greenhouse gas emissions and </tspan><tspan x="0" y="91">contributes to better health and physical </tspan><tspan x="0" y="110">fitness. For long distances, consider taking the </tspan><tspan x="0" y="129">train or bus. Finally, carpool whenever possible.</tspan></text>
+    <text id="Reduce_reuse_repair_and_recycle" data-name="Reduce, reuse, repair and recycle" transform="translate(937 2163)" fill="#707070" font-size="16" font-family="SegoeUI, Segoe UI"><tspan x="0" y="17">Reduce, reuse, repair and recycle</tspan></text>
+    <text id="Electronics_clothing_and_all_the_other_goods_we_buy_generate_carbon_emissions_at_every_stage_of_their_production_from_extracting_raw_materials_to_manufacturing_and_transporting_the_goods_to_the_point_of_sale._To_protect_our_climate_buy_less_choose_seco" data-name="Electronics, clothing and all the other goods we buy generate carbon emissions at every stage of their production, from extracting raw materials to manufacturing and transporting the goods to the point of sale. To protect our climate, buy less, choose seco" transform="translate(914 2214)" fill="#707070" font-size="14" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="15">Electronics, clothing and all the other goods </tspan><tspan x="0" y="34">we buy generate carbon emissions at every </tspan><tspan x="0" y="53">stage of their production, from extracting raw </tspan><tspan x="0" y="72">materials to manufacturing and transporting </tspan><tspan x="0" y="91">the goods to the point of sale. To protect our </tspan><tspan x="0" y="110">climate, buy less, choose second-hand items, </tspan><tspan x="0" y="129">repair everything you can and recycle.</tspan></text>
+    <text id="SCORPIO" transform="translate(250 337)" fill="#fff" font-size="93" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">SCORPIO</tspan></text>
+    <text id="SCORPIO-2" data-name="SCORPIO" transform="translate(266 2615)" fill="#fff" font-size="40" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">SCORPIO</tspan></text>
+    <text id="Welcome_to_the_World_Meteorological_Organization" data-name="Welcome to the World Meteorological Organization" transform="translate(271 2673)" fill="#707070" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="0" y="22">Welcome to the World </tspan><tspan x="0" y="49">Meteorological Organization</tspan></text>
+    <text id="SCORPIO_explores_the_unknown_in_air_and_space_innovates_for_the_benefit_of_humanity_and_inspires_the_world_through_discovery." data-name="SCORPIO explores the unknown in air and space, innovates for the benefit of humanity, and inspires the world through discovery." transform="translate(266 2758)" fill="#707070" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="0" y="22">SCORPIO explores the unknown in </tspan><tspan x="0" y="49">air and space, innovates for the </tspan><tspan x="0" y="76">benefit of humanity, and inspires </tspan><tspan x="0" y="103">the world through discovery.</tspan></text>
+    <text id="Home" transform="translate(679 2629)" fill="#707070" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="0" y="22">Home</tspan></text>
+    <text id="Follow_us" data-name="Follow us" transform="translate(920 2629)" fill="#707070" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="0" y="22">Follow us</tspan></text>
+    <rect id="facebook" width="19" height="35" transform="translate(930 2665)" fill="url(#pattern-5)"/>
+    <image id="insta_b" data-name="insta b" width="32" height="32" transform="translate(958 2667)" xlink:href="D:/symbole/insta%20b.png"/>
+  </g>
+</svg>
